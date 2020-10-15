@@ -26,5 +26,5 @@ END
 
 To run your code, make sure, the file has:
 1. ```.kai``` as the extension
-2. In the interpreted code, change the file name in the main() to your filename
+2. In the interpreter.cpp, line 80 change the file name in the main() to your filename
 3. Enjoy...
