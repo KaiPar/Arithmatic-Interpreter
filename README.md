@@ -9,6 +9,7 @@ The rules of the expression are:
 1. There must always be a space between 2 consecutive terms
 2. For now, the interpreter only supports +, -, * and / operations
 3. There must be one expression between BEGIN and END keywords.
+
 Examples:
 1.
 ```
